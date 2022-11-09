@@ -257,7 +257,7 @@ export default {
         },
         backendOptions: [
         { value: "https://chva.ttkoyo.ga/sub?" },
-        { value: "sub-web-prod-sub-cuidqk.mo4.mogenius.io/sub?" },
+        { value: "https://sub-web-prod-sub-cuidqk.mo4.mogenius.io/sub?" },
         ],
         remoteConfig: [
         {
