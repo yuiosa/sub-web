@@ -256,8 +256,9 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [
-        { value: "https://chva.ttkoyo.ga/sub?" }
-        { value: "sub-web-prod-sub-cuidqk.mo4.mogenius.io/sub?" }],
+        { value: "https://chva.ttkoyo.ga/sub?" },
+        { value: "sub-web-prod-sub-cuidqk.mo4.mogenius.io/sub?" },
+        ],
         remoteConfig: [
         {
             label: "ACL4SSR",
